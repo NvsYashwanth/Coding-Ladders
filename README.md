@@ -12,10 +12,10 @@
 | 7 | [Tokitsukaze and Enhancement](https://codeforces.com/problemset/problem/1191/A) | 700 | :white_check_mark: |
 | 8 | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | 700 |:white_check_mark:  |
 | 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 700 | :white_check_mark: |
-| 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 |  |
-| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 |  |
-| 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  |
-| 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
+| 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 | :white_check_mark: |
+| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 | :white_check_mark: |
+| 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 | :white_check_mark: |
+| 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 | :white_check_mark: |
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
 | 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 |  |
