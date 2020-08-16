@@ -16,9 +16,9 @@
 | 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 | :white_check_mark: |
 | 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 | :white_check_mark: |
 | 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 | :white_check_mark: |
-| 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
-| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
-| 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 |  |
+| 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 | :white_check_mark: |
+| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 | :white_check_mark: |
+| 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 | :white_check_mark: |
 | 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 |  |
 | 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 |  |
 | 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 |  |
