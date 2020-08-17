@@ -19,14 +19,14 @@
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 | :white_check_mark: |
 | 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 | :white_check_mark: |
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 | :white_check_mark: |
-| 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 |  |
+| 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 | :white_check_mark: |
 | 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 |  |
 | 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 |  |
-| 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 |  |
+| 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 | :white_check_mark: |
 | 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 |  |
 | 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 |  |
-| 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 |  |
-| 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 |  |
+| 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 | :white_check_mark: |
+| 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 | :white_check_mark: |
 | 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 |  |
 | 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 |  |
 | 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 |  |
